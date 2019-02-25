@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MartinHorciak5</label>
+		<id>31</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>MartinHorciak5.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MartinHorciak5.jcp</path>
+		</project>
+	</projects>
+</workspace>
